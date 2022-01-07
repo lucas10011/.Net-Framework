@@ -1,0 +1,6 @@
+C:\Users\Guinther\Desktop\Servico\bin\Debug\Servico.dll.config
+C:\Users\Guinther\Desktop\Servico\bin\Debug\Servico.dll
+C:\Users\Guinther\Desktop\Servico\bin\Debug\Servico.pdb
+C:\Users\Guinther\Desktop\Servico\obj\Debug\Servico.csprojResolveAssemblyReference.cache
+C:\Users\Guinther\Desktop\Servico\obj\Debug\Servico.dll
+C:\Users\Guinther\Desktop\Servico\obj\Debug\Servico.pdb
