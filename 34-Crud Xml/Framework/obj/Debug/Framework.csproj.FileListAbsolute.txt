@@ -1,0 +1,8 @@
+D:\Devmedia\.NET Framework 4.5\Fontes\NetFwk45\Framework\Framework\obj\Debug\Framework.csprojResolveAssemblyReference.cache
+D:\Devmedia\.NET Framework 4.5\Fontes\NetFwk45\Framework\Framework\bin\Debug\Framework.exe.config
+D:\Devmedia\.NET Framework 4.5\Fontes\NetFwk45\Framework\Framework\bin\Debug\Framework.exe
+D:\Devmedia\.NET Framework 4.5\Fontes\NetFwk45\Framework\Framework\bin\Debug\Framework.pdb
+D:\Devmedia\.NET Framework 4.5\Fontes\NetFwk45\Framework\Framework\bin\Debug\Devmedia.Estudo.LibraryFrameworkSample.dll
+D:\Devmedia\.NET Framework 4.5\Fontes\NetFwk45\Framework\Framework\bin\Debug\Devmedia.Estudo.LibraryFrameworkSample.pdb
+D:\Devmedia\.NET Framework 4.5\Fontes\NetFwk45\Framework\Framework\obj\Debug\Framework.exe
+D:\Devmedia\.NET Framework 4.5\Fontes\NetFwk45\Framework\Framework\obj\Debug\Framework.pdb

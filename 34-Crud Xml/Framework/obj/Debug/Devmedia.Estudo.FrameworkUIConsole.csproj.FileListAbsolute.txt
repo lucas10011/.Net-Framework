@@ -1,0 +1,50 @@
+D:\Devmedia\.NET Framework 4.5\Fontes\NetFwk45\Framework\Framework\bin\Debug\Devmedia.Estudo.LibraryFrameworkSample.dll
+D:\Devmedia\.NET Framework 4.5\Fontes\NetFwk45\Framework\Framework\bin\Debug\Devmedia.Estudo.LibraryFrameworkSample.pdb
+D:\Devmedia\.NET Framework 4.5\Fontes\NetFwk45\Framework\Framework\obj\Debug\Devmedia.Estudo.FrameworkUIConsole.csprojResolveAssemblyReference.cache
+D:\Devmedia\.NET Framework 4.5\Fontes\NetFwk45\Framework\Framework\bin\Debug\FrameworkConsole.exe.config
+D:\Devmedia\.NET Framework 4.5\Fontes\NetFwk45\Framework\Framework\bin\Debug\FrameworkConsole.exe
+D:\Devmedia\.NET Framework 4.5\Fontes\NetFwk45\Framework\Framework\bin\Debug\FrameworkConsole.pdb
+D:\Devmedia\.NET Framework 4.5\Fontes\NetFwk45\Framework\Framework\obj\Debug\FrameworkConsole.exe
+D:\Devmedia\.NET Framework 4.5\Fontes\NetFwk45\Framework\Framework\obj\Debug\FrameworkConsole.pdb
+D:\Devmedia\.NET Framework 4.5\Fontes\NetFwk45\Framework\Framework\bin\Debug\Devmedia.Estudo.LibraryFrameworkSample.Library.dll
+D:\Devmedia\.NET Framework 4.5\Fontes\NetFwk45\Framework\Framework\bin\Debug\Devmedia.Estudo.LibraryFrameworkSample.Library.pdb
+D:\Aulas\.NET Framework 4.5\Fontes\NetFwk45\Framework\Framework\bin\Debug\FrameworkConsole.exe.config
+D:\Aulas\.NET Framework 4.5\Fontes\NetFwk45\Framework\Framework\obj\Debug\FrameworkConsole.exe
+D:\Aulas\.NET Framework 4.5\Fontes\NetFwk45\Framework\Framework\obj\Debug\FrameworkConsole.pdb
+D:\Aulas\.NET Framework 4.5\Fontes\NetFwk45\Framework\Framework\bin\Debug\FrameworkConsole.exe
+D:\Aulas\.NET Framework 4.5\Fontes\NetFwk45\Framework\Framework\bin\Debug\FrameworkConsole.pdb
+D:\Aulas\.NET Framework 4.5\Fontes\NetFwk45\Framework\Framework\bin\Debug\Devmedia.Estudo.LibraryFrameworkSample.dll
+D:\Aulas\.NET Framework 4.5\Fontes\NetFwk45\Framework\Framework\bin\Debug\Devmedia.Estudo.LibraryFrameworkSample.Library.dll
+D:\Aulas\.NET Framework 4.5\Fontes\NetFwk45\Framework\Framework\bin\Debug\Devmedia.Estudo.LibraryFrameworkSample.pdb
+D:\Aulas\.NET Framework 4.5\Fontes\NetFwk45\Framework\Framework\bin\Debug\Devmedia.Estudo.LibraryFrameworkSample.Library.pdb
+D:\Aulas\.NET Framework 4.5\Fontes\NetFwk45\Framework\Framework\obj\Debug\Devmedia.Estudo.FrameworkUIConsole.csprojResolveAssemblyReference.cache
+D:\devmedia\NETFwk\Fontes\NetFwk45_WORK\Framework\Framework\bin\Debug\FrameworkConsole.exe.config
+D:\devmedia\NETFwk\Fontes\NetFwk45_WORK\Framework\Framework\bin\Debug\FrameworkConsole.exe
+D:\devmedia\NETFwk\Fontes\NetFwk45_WORK\Framework\Framework\bin\Debug\FrameworkConsole.pdb
+D:\devmedia\NETFwk\Fontes\NetFwk45_WORK\Framework\Framework\bin\Debug\Devmedia.Estudo.LibraryFrameworkSample.dll
+D:\devmedia\NETFwk\Fontes\NetFwk45_WORK\Framework\Framework\bin\Debug\Devmedia.Estudo.LibraryFrameworkSample.Library.dll
+D:\devmedia\NETFwk\Fontes\NetFwk45_WORK\Framework\Framework\bin\Debug\Devmedia.Estudo.LibraryFrameworkSample.pdb
+D:\devmedia\NETFwk\Fontes\NetFwk45_WORK\Framework\Framework\bin\Debug\Devmedia.Estudo.LibraryFrameworkSample.Library.pdb
+D:\devmedia\NETFwk\Fontes\NetFwk45_WORK\Framework\Framework\obj\Debug\Devmedia.Estudo.FrameworkUIConsole.csprojResolveAssemblyReference.cache
+D:\devmedia\NETFwk\Fontes\NetFwk45_WORK\Framework\Framework\obj\Debug\FrameworkConsole.exe
+D:\devmedia\NETFwk\Fontes\NetFwk45_WORK\Framework\Framework\obj\Debug\FrameworkConsole.pdb
+D:\devmedia\NETFwk\Fontes\NetFwk45\Framework\Framework\bin\Debug\FrameworkConsole.exe.config
+D:\devmedia\NETFwk\Fontes\NetFwk45\Framework\Framework\bin\Debug\FrameworkConsole.exe
+D:\devmedia\NETFwk\Fontes\NetFwk45\Framework\Framework\bin\Debug\FrameworkConsole.pdb
+D:\devmedia\NETFwk\Fontes\NetFwk45\Framework\Framework\bin\Debug\Devmedia.Estudo.LibraryFrameworkSample.dll
+D:\devmedia\NETFwk\Fontes\NetFwk45\Framework\Framework\bin\Debug\Devmedia.Estudo.LibraryFrameworkSample.Library.dll
+D:\devmedia\NETFwk\Fontes\NetFwk45\Framework\Framework\bin\Debug\Devmedia.Estudo.LibraryFrameworkSample.pdb
+D:\devmedia\NETFwk\Fontes\NetFwk45\Framework\Framework\bin\Debug\Devmedia.Estudo.LibraryFrameworkSample.Library.pdb
+D:\devmedia\NETFwk\Fontes\NetFwk45\Framework\Framework\obj\Debug\Devmedia.Estudo.FrameworkUIConsole.csprojResolveAssemblyReference.cache
+D:\devmedia\NETFwk\Fontes\NetFwk45\Framework\Framework\obj\Debug\FrameworkConsole.exe
+D:\devmedia\NETFwk\Fontes\NetFwk45\Framework\Framework\obj\Debug\FrameworkConsole.pdb
+E:\devmedia\netfwk\fontes\NetFwk45\Framework\Framework\bin\Debug\FrameworkConsole.exe.config
+E:\devmedia\netfwk\fontes\NetFwk45\Framework\Framework\bin\Debug\FrameworkConsole.exe
+E:\devmedia\netfwk\fontes\NetFwk45\Framework\Framework\bin\Debug\FrameworkConsole.pdb
+E:\devmedia\netfwk\fontes\NetFwk45\Framework\Framework\bin\Debug\Devmedia.Estudo.LibraryFrameworkSample.dll
+E:\devmedia\netfwk\fontes\NetFwk45\Framework\Framework\bin\Debug\Devmedia.Estudo.LibraryFrameworkSample.Library.dll
+E:\devmedia\netfwk\fontes\NetFwk45\Framework\Framework\bin\Debug\Devmedia.Estudo.LibraryFrameworkSample.pdb
+E:\devmedia\netfwk\fontes\NetFwk45\Framework\Framework\bin\Debug\Devmedia.Estudo.LibraryFrameworkSample.Library.pdb
+E:\devmedia\netfwk\fontes\NetFwk45\Framework\Framework\obj\Debug\Devmedia.Estudo.FrameworkUIConsole.csprojResolveAssemblyReference.cache
+E:\devmedia\netfwk\fontes\NetFwk45\Framework\Framework\obj\Debug\FrameworkConsole.exe
+E:\devmedia\netfwk\fontes\NetFwk45\Framework\Framework\obj\Debug\FrameworkConsole.pdb
