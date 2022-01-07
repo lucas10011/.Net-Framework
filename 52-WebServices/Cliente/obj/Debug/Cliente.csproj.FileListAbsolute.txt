@@ -1,0 +1,9 @@
+C:\Users\Guinther\Desktop\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\Guinther\Desktop\Cliente\bin\Debug\Cliente.exe
+C:\Users\Guinther\Desktop\Cliente\bin\Debug\Cliente.pdb
+C:\Users\Guinther\Desktop\Cliente\obj\Debug\Cliente.csprojResolveAssemblyReference.cache
+C:\Users\Guinther\Desktop\Cliente\obj\Debug\Cliente.FrmMain.resources
+C:\Users\Guinther\Desktop\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+C:\Users\Guinther\Desktop\Cliente\obj\Debug\Cliente.csproj.GenerateResource.Cache
+C:\Users\Guinther\Desktop\Cliente\obj\Debug\Cliente.exe
+C:\Users\Guinther\Desktop\Cliente\obj\Debug\Cliente.pdb
